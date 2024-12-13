@@ -1,3 +1,3 @@
-# firebase_auth
+# Login-App
 
 A new Flutter project.
